@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Elixir Backend Developer Jr
+20y
+Computer Science Student
+
+Always looking to learning new things :)
+
+
 <!--
 **angelorange/angelorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
