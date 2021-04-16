@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 Elixir Backend Developer Jr
+
 20y
+
 Computer Science Student
+
 
 Always looking to learning new things :)
 
