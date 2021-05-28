@@ -7,7 +7,7 @@ Elixir Backend Developer Jr
 Computer Science Student
 
 
-Always looking to learning new things :)
+Always looking to learn new things :)
 
 
 <!--
