@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Elixir Backend Developer Jr and Flutter Enthusiast.
+Elixir Backend Developer and Flutter Enthusiast.
 
 21y
 
