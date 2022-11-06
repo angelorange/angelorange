@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-Elixir Backend Developer and Flutter Enthusiast.
+Elixir Backend Developer.
 
-21y
+22y.
 
-Computer Science Student
+Computer Science Student.
 
 
-Always looking to learn new things :)
-
+Always looking to learn new things o/
 
 <!--
 **angelorange/angelorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
